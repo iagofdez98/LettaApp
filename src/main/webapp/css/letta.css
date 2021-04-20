@@ -1,0 +1,27 @@
+#home-carousel .item img {
+  max-height: 896px;
+  min-width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#home-carousel .carousel-inner {
+  background-color: #337cbb;
+}
+
+@media (max-width: 768px) {
+  #events-container img {
+    max-height: 180px !important;
+  }
+}
+
+.cardSub {
+  font-size: small;
+}
+
+.classWithShadow{
+   -moz-box-shadow: 3px 3px 4px #000; 
+   -webkit-box-shadow: 3px 3px 4px #000; 
+   box-shadow: 3px 3px 4px #000; 
+}

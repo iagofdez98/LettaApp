@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<users login="gregorio" password="713bfda78870bf9d1b261f565286f85e97ee614efe5f0faf7c34e7ca4f65baca" role="normal"/>
+	<users login="manuel" password="713bfda78870bf9d1b261f565286f85e97ee614efe5f0faf7c34e7ca4f65baca" role="normal"/>
+	<users login="paco" password="713bfda78870bf9d1b261f565286f85e97ee614efe5f0faf7c34e7ca4f65baca" role="normal"/>
+	<users login="pepito" password="713bfda78870bf9d1b261f565286f85e97ee614efe5f0faf7c34e7ca4f65baca" role="normal"/>
+
+	<events id="1" title="Titulo 1"
+		description="Hola soy una descripcion" category="Cine"
+		location="Ourense" capacity="12" creation_date="3020-01-10 14:06:45"
+		event_date="3020-01-20 15:06:45" duration="30" creator="pepito" />
+	<events id="2" title="Titulo 2"
+		description="Hola soy una descripcion" category="Deportes"
+		location="Ourense" capacity="12" creation_date="3020-02-04 13:26:45"
+		event_date="3020-02-14 14:26:45" duration="30" creator="gregorio" />
+	<events id="3" title="Titulo 3"
+		description="Hola soy una descripcion" category="Musica"
+		location="Ourense" capacity="12" creation_date="3020-02-23 11:06:45"
+		event_date="3020-03-02 11:06:45" duration="30" creator="manuel" />
+	<events id="4" title="Titulo 4"
+		description="Hola soy una descripcion" category="Series"
+		location="Ourense" capacity="24" creation_date="3020-01-01 15:06:45"
+		event_date="3020-01-04 15:06:45" duration="30" creator="paco" />
+	<events id="5" title="Titulo 5"
+		description="Hola soy una descripcion" category="Otro"
+		location="Ourense" capacity="12" creation_date="3020-03-02 15:06:45"
+		event_date="3020-03-14 15:06:45" duration="30" creator="pepito" />
+	<events id="6" title="Titulo 6"
+		description="Hola soy una descripcion" category="Cine"
+		location="Ourense" capacity="12" creation_date="3020-02-12 15:06:45"
+		event_date="3020-02-23 15:06:45" duration="30" creator="pepito" />
+	<events id="7" title="Titulo 7"
+		description="Hola soy una descripcion" category="Otro"
+		location="Ourense" capacity="6" creation_date="3020-01-01 15:06:45"
+		event_date="3020-01-10 15:06:45" duration="30" creator="gregorio" />
+	<events id="8" title="Titulo 8"
+		description="Hola soy una descripcion" category="Teatro"
+		location="Ourense" capacity="12" creation_date="3020-04-01 15:06:45"
+		event_date="3020-04-10 15:06:45" duration="30" creator="gregorio" />
+	<events id="9" title="Titulo 9"
+		description="Hola soy una descripcion" category="Cine"
+		location="Ourense" capacity="12" creation_date="3020-02-10 15:06:45"
+		event_date="3020-02-12 15:06:45" duration="30" creator="pepito" />
+	<events id="10" title="Titulo 10"
+		description="Hola soy una descripcion" category="Literatura"
+		location="Ourense" capacity="12" creation_date="3020-04-05 15:06:45"
+		event_date="3020-04-15 15:06:45" duration="30" creator="paco" />
+	<events id="11" title="Titulo 11"
+		description="Hola soy una descripcion" category="Deportes"
+		location="Ourense" capacity="22" creation_date="3020-02-10 15:06:45"
+		event_date="3020-02-19 15:06:45" duration="30" creator="pepito" />
+	<events id="12" title="Titulo 12"
+		description="Hola soy una descripcion" category="Cine"
+		location="Ourense" capacity="10" creation_date="3020-01-04 15:06:45"
+		event_date="3020-01-07 15:06:45" duration="30" creator="manuel" />
+	<events id="13" title="Titulo 13"
+		description="Hola soy una descripcion" category="Deportes"
+		location="Ourense" capacity="12" creation_date="3020-04-02 15:06:45"
+		event_date="3020-04-12 15:06:45" duration="30" creator="pepito" />
+	<events id="14" title="Titulo 14"
+		description="Hola soy una descripcion" category="Cine"
+		location="Ourense" capacity="12" creation_date="3020-01-10 15:06:45"
+		event_date="3020-01-20 15:06:45" duration="30" creator="paco" />
+
+	<assistants id_event="1" id_user="manuel" />
+
+
+</dataset>
